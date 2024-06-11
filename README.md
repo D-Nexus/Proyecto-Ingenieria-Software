@@ -1,6 +1,6 @@
 # Proyecto-Ingenieria-Software
 
-# Integrantes
+## Integrantes:
 - Michelle Rocha
 - Fernando Cruces
 - Alan Mac-Kay
